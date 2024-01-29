@@ -1,0 +1,4 @@
+.previewWrapper{
+  display: flex;
+  flex-direction: column;
+}
